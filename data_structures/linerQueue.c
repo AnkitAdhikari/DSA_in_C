@@ -52,7 +52,7 @@ void dequeue(qt *q)
 {
     if (isEmpty(q))
     {
-        printf("\nQueue unflow!\n");
+        printf("\nQueue underflow!\n");
     }
     else
     {
